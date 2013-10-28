@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="disable_bt">Disable BT</string>
+    <string name="discoverable_bt">Discoverable BT</string>
+    <string name="enable_bt">Enable BT</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="discover_devices_search">Discover Devices(Search)</string>
+
+</resources>
