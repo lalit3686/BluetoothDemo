@@ -9,5 +9,6 @@
     <string name="enable_bt">Enable BT</string>
     <string name="paired_devices">Paired Devices</string>
     <string name="discover_devices_search">Discover Devices(Search)</string>
+    <string name="bluetooth_server">Bluetooth Server</string>
 
 </resources>

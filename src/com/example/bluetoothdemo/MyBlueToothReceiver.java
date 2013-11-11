@@ -10,10 +10,11 @@ import android.widget.Toast;
 
 public class MyBlueToothReceiver extends BroadcastReceiver {
 
+	boolean isDeviceDiscovered = false;
+
 	@Override
 	public void onReceive(Context context, Intent intent) {
 		
-		boolean isDeviceDiscovered = false;
 		
 		if(intent.getAction().equalsIgnoreCase(BluetoothDevice.ACTION_FOUND)){
 			isDeviceDiscovered = true;
